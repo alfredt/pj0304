@@ -5,7 +5,6 @@ Created on Tue Mar 14 15:56:29 2017
 @author: user
 """
 
-import grabData
 import nltk
 import re
 from nltk.stem.wordnet import WordNetLemmatizer

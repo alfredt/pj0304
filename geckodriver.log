@@ -1,0 +1,83 @@
+1491894020270	geckodriver	INFO	Listening on 127.0.0.1:46753
+1491894021368	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ixCGLLacKyR7
+1491894021369	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491894021385	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37557
+1491894023602	Marionette	INFO	Listening on port 37557
+1491894024960	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1491896380981	Marionette	INFO	New connections will no longer be accepted
+[Child 12056] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-bLMGaO/firefox-52.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 12056] ###!!! ABORT: Aborting on channel error.: file /build/firefox-bLMGaO/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 12056] ###!!! ABORT: Aborting on channel error.: file /build/firefox-bLMGaO/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1491966759916	geckodriver	INFO	Listening on 127.0.0.1:42591
+1491966760964	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zB3Ye5HJxuBF
+1491966760964	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491966760982	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43351
+1491966763264	Marionette	INFO	Listening on port 43351
+1491966764603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491966944545	geckodriver	INFO	Listening on 127.0.0.1:43591
+1491966945642	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.qXRxV9MlYv9k
+1491966945643	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491966945645	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40195
+1491966946677	Marionette	INFO	Listening on port 40195
+1491966947821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491967094002	geckodriver	INFO	Listening on 127.0.0.1:34689
+1491967095093	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.XIf9wNjviNIJ
+1491967095094	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491967095097	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43217
+1491967096163	Marionette	INFO	Listening on port 43217
+1491967097361	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=19.2713) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600D5,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1491970658553	geckodriver	INFO	Listening on 127.0.0.1:39643
+1491970659645	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.48feipX41PxC
+1491970659646	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491970659648	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32833
+1491970660686	Marionette	INFO	Listening on port 32833
+1491970661743	Marionette	WARN	TLS certificate errors will be ignored for this session
